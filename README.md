@@ -2,7 +2,6 @@
 
 A React TypeScript application that simulates a secure email interface with role-based access control, email filtering, and search functionality.
 
-![SecureMail UI Screenshot](https://via.placeholder.com/800x450)
 
 ## Features
 
